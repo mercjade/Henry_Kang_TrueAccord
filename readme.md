@@ -7,7 +7,7 @@ It is a work assignment for handling the sample customer debt data.
 2. Run maven command to build
 on the terminal:
 ```bash
-cd trueaccoud
+cd _FOLDER_YOU_CREATE_
 mvn clean install
 ```
 3. Check the test result
