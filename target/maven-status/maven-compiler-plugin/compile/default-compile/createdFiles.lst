@@ -1,0 +1,5 @@
+trueaccord\model\Payment.class
+trueaccord\DebtsClient.class
+trueaccord\DataManager.class
+trueaccord\model\PaymentPlan.class
+trueaccord\model\Debt.class
