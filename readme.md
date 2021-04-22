@@ -3,7 +3,7 @@
 It is a work assignment for handling the sample customer debt data.
 
 ## step-by-step instruction
-1. Unzip henry_kang_trueaccord.zip file
+1. Download project folder
 2. Run maven command to build
 on the terminal:
 ```bash
